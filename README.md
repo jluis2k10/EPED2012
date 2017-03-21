@@ -3,7 +3,7 @@ Práctica Estrategias de Programación y Estructuras de Datos 2012/13
 
 ## Pastelería
 
-La práctica consistía en modelar el trabajo de una pastelería atendiendo a clientes.
+La práctica consistía en modelar el trabajo de una pastelería atendiendo a clientes. Para el desarrollo hay que implementar las interfaces de los TADs (Tipo Abstracto de Datos) que proporciona el equipo docente de la asignatura.
 
 ## Ejecución:
 
